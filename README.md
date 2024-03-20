@@ -10,7 +10,7 @@
 
   #### Parts de la web
 
-- La portada principal: ![image](https://github.com/Mengualiano/pagina-estrellas/assets/114684235/ddf21dcb-9b22-449d-8f95-a71a6aa814e3)
+**La portada principal:** ![image](https://github.com/Mengualiano/pagina-estrellas/assets/114684235/ddf21dcb-9b22-449d-8f95-a71a6aa814e3)
 
 -La pagina per elegir els planetes: ![image](https://github.com/Mengualiano/pagina-estrellas/assets/114684235/2566b4c9-230a-4a64-8c86-db421f4bda0b)
 
