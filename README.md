@@ -12,9 +12,13 @@
 
 **La portada principal:** ![image](https://github.com/Mengualiano/pagina-estrellas/assets/114684235/ddf21dcb-9b22-449d-8f95-a71a6aa814e3)
 
--La pagina per elegir els planetes: ![image](https://github.com/Mengualiano/pagina-estrellas/assets/114684235/2566b4c9-230a-4a64-8c86-db421f4bda0b)
+**La pagina per elegir els planetes:** ![image](https://github.com/Mengualiano/pagina-estrellas/assets/114684235/2566b4c9-230a-4a64-8c86-db421f4bda0b)
 
--El formulari per viatjar: ![image](https://github.com/Mengualiano/pagina-estrellas/assets/114684235/3062fd2e-f89e-4ecd-8ff6-b35212521901).
+**El formulari per viatjar:** ![image](https://github.com/Mengualiano/pagina-estrellas/assets/114684235/3062fd2e-f89e-4ecd-8ff6-b35212521901).
+
+### Respecte a la interactivitat de la página
+
+-Ara compta amb váries innovacions, com el fet de que al passar el ratolí per les imatges, et dona una breu descripció, o apareixen popups quan estás temps a la página, així com un formulari per deixar opinions.
 
 
 Tot el projecte es de l'alumne Juan José Galiano Moyá únicament.
